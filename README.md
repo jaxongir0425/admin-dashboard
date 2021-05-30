@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-ADMIN DASHBOARD APP
+# React admin-dashboard
